@@ -20,7 +20,7 @@ I'm a passionate Flutter developer with expertise in various technologies includ
 Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/hamza-shafiq-763b01234/)
-- [Twitter](your-twitter-profile-url)
+- [Twitter](https://x.com/home)
 - [Facebook](https://www.facebook.com/profile.php?id=100013474830730)
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello! 😊

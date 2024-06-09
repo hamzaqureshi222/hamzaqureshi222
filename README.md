@@ -32,7 +32,7 @@ Here are some of my noteworthy projects:
 
 Let's connect and collaborate! You can find me on:
 
-- [LinkedIn](your-linkedin-profile-url)
+- [LinkedIn](www.linkedin.com/in/hamza-shafiq-763b01234)
 - [Twitter](your-twitter-profile-url)
 - [Facebook](your-portfolio-website-url)
 

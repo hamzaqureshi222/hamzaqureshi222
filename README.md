@@ -15,26 +15,13 @@ I'm a passionate Flutter developer with expertise in various technologies includ
 - **Tools**: Postman
 - **Other**: Object-Oriented Programming (OOP)
 
-## Projects
-
-Here are some of my noteworthy projects:
-
-1. [Project Name](link-to-project) - Description of the project.
-   ![Project Image](project-image-url) <!-- You can add an image related to your project -->
-
-2. [Project Name](link-to-project) - Description of the project.
-   ![Project Image](project-image-url)
-
-3. [Project Name](link-to-project) - Description of the project.
-   ![Project Image](project-image-url)
-
 ## Connect with Me
 
 Let's connect and collaborate! You can find me on:
 
 - [LinkedIn](www.linkedin.com/in/hamza-shafiq-763b01234)
 - [Twitter](your-twitter-profile-url)
-- [Facebook](your-portfolio-website-url)
+- [Facebook](https://www.facebook.com/profile.php?id=100013474830730)
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hello! 😊
 
